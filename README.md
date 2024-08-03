@@ -12,7 +12,7 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** This repository contains a collection of practice exercises built using only JavaScript, aimed at enhancing coding skills and understanding of core JavaScript concepts. The exercises include various components such as:
+**[EN]** This repository contains a compilation of practice exercises built using only JavaScript, aimed at enhancing coding skills and understanding of core JavaScript concepts. The exercises include various components such as:
 
 [Preview](/design)
 - Filter: Implementing dynamic filtering of data based on user input.
@@ -21,7 +21,7 @@
 
 Each exercise focuses on different aspects of JavaScript programming, providing hands-on experience with DOM manipulation, event handling, and API interactions. This repository is a valuable resource for developers looking to practice and improve their JavaScript skills through practical examples.
 
-**[FR]** Ce dépôt contient une collection d'exercices pratiques construits uniquement en JavaScript, visant à améliorer les compétences en codage et la compréhension des concepts fondamentaux de JavaScript. Les exercices incluent divers composants tels que :
+**[FR]** Ce dépôt contient une compilation d'exercices pratiques construits uniquement en JavaScript, visant à améliorer les compétences en codage et la compréhension des concepts fondamentaux de JavaScript. Les exercices incluent divers composants tels que :
 
 [Preview](/design)
 - Filtre : Implémentation du filtrage dynamique de données basé sur l'entrée utilisateur.
