@@ -12,7 +12,7 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** This repository contains a compilation of practice exercises built using only JavaScript, aimed at enhancing coding skills and understanding of core JavaScript concepts. The exercises include various components such as:
+**[EN]** This repository contains a collection of practice exercises built using only JavaScript, aimed at enhancing coding skills and understanding of core JavaScript concepts. The exercises include various components such as:
 
 [Preview](/design)
 - Filter: Implementing dynamic filtering of data based on user input.
