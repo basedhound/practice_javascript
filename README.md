@@ -1,5 +1,5 @@
 <div align="center">
-      <img src="design/Quiz.webp" alt="Project Banner">
+      <img src="design/Slider.webp" alt="Project Banner">
     </a>
   <h3 align="center">Practice JavaScript</h3>
 </div>
