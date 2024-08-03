@@ -15,7 +15,6 @@ for (let i = 0; i < length; i++) {
 
 const buttons = document.querySelectorAll(".button");
 buttons[0].style.backgroundColor = "white";
-utton
 const resetBg = () => {
   buttons.forEach((button) => {
     button.style.backgroundColor = "transparent";
